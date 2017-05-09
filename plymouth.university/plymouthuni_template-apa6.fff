@@ -1,0 +1,8 @@
+\begin{figure*}[htbp]
+\begin{center}
+\caption{Alternatively, the figure can be made a large figure by using the figure* command. This figure was generated using the R statistics and graphics program.  This is a demonstration of a `notched boxplot' for ten samples taken from a normal distribution, and ten taken from a mixture of two normals with different variances. }
+\label{fig:bigfig}
+\end{center}
+\end{figure*}
+\efloatseparator
+ 
