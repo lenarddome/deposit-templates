@@ -1,23 +1,22 @@
 ---
+title: "A Pandoc Markdown Article Starter and Template"
+author:
+- affiliation: Clemson University
+  name: Steven V. Miller
 output:
   pdf_document:
     citation_package: natbib
-    keep_tex: true
-    fig_caption: true
+    fig_caption: yes
+    keep_tex: yes
     latex_engine: pdflatex
-    #template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm-latex-ms.tex
-title: "A Pandoc Markdown Article Starter and Template"
-thanks: "Replication files are available on the author's Github account..."
-author:
-- name: Steven V. Miller
-  affiliation: Clemson University
-abstract: "This document provides an introduction to R Markdown, argues for its..."
-keywords: "pandoc, r markdown, knitr"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+    template: ~/gito/svm-r-markdown-templates/svm-latex-ms.tex
+  word_document: default
 geometry: margin=1in
-fontfamily: Times New Roman
+keywords: pandoc, r markdown, knitr
 fontsize: 12pt
-# spacing: double
-bibliography: /PATH/TO/master.bib
-biblio-style: apsr
+spacing: double
+thanks: Replication files are available on the author's Github account...
+abstract: This document provides an introduction to R Markdown, argues for its...
 ---
+
+This is  a manuscript example, but something is missing very much.
