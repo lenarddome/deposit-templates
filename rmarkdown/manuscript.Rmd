@@ -3,17 +3,18 @@ title: "A Pandoc Markdown Article Starter and Template"
 author:
 - affiliation: Clemson University
   name: Steven V. Miller
+fontsize: 12pt
 output:
+  html_document: default
   pdf_document:
     citation_package: natbib
     fig_caption: yes
     keep_tex: yes
     latex_engine: pdflatex
-    template: ~/gito/svm-r-markdown-templates/svm-latex-ms.tex
+    template: ~/GitOt/svm-r-markdown-templates/svm-latex-ms.tex
   word_document: default
-geometry: margin=1in
 keywords: pandoc, r markdown, knitr
-fontsize: 12pt
+geometry: margin=1in
 spacing: double
 thanks: Replication files are available on the author's Github account...
 abstract: This document provides an introduction to R Markdown, argues for its...

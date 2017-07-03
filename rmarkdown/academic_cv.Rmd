@@ -1,27 +1,23 @@
 ---
-output: 
+title: "CV"
+author: "William Sealy Gosset"
+email: guinness@consumer-care.net
+output:
+  html_document: default
   pdf_document:
     latex_engine: pdflatex
-    template: ~/gito/svm-r-markdown-templates/svm-latex-cv.tex
-geometry: margin=1in
-
-title: "CV"
-author: William Sealy Gosset
-
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
-fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-phone: "+353 1 408 4800"
-web: guinness.com
-updated: no
-
-keywords: R Markdown, academic CV, template
-
+    template: ~/GitOt/svm-r-markdown-templates/svm-latex-cv.tex
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=1in
+jobtitle: Chief Brewer, Arthur Guinness & Son
+keywords: R Markdown, academic CV, template
 linkcolor: blue
+fontawesome: yes
+phone: +353 1 408 4800
+address: Guinness Brewery · Park Royal · London NW10 7RR, UK
+updated: no
 urlcolor: blue
+web: guinness.com
 ---
