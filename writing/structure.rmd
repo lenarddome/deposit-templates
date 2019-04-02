@@ -1,0 +1,19 @@
+**Freytag's dramatic structure based on Aristotle's ideal plot**
+
+1. Exposition (Inciting incident)
+2. Rising Tension
+3. Climax
+4. Falling Tension
+5. Resolution
+6. Denouement (So, wht next?)
+
+---
+
+- What is important is `Chekhov's Gun`.
+- Each section must have three clearly identifiable stages that drives the plot of ideas and links them together (paragraph to paragraph):
+    1. **Opening** with a problem, phenomenon that result or follows from the previous line of **observations**, reasoning in the above paragraph; and the explanation of that problem both empirically and theoretically
+    2. **Challenge** `Build tension` by easing in the counter-example or/and data that challenges the explanation/model/account-of-the-phenomenon you introduced
+    3. **Action**, i.e. analyze the data critically, take another look at the technical details of the method/confounds, etc. before you conclude
+    4. Give a **Resolution**, by showing how our understanding on the problem/nature/phenomenon advanced by gaining insight into the problem identified
+
+---

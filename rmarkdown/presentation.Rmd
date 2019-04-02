@@ -1,0 +1,23 @@
+---
+title: "Main title"
+subtitle: "additional titles"
+shorttitle: "Title shown on all pages"
+author:
+    - "Name"
+institute: "where-from"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+in_header:
+    - \usepackage{amsmath}
+    - \usepackage{graphicx}
+output:
+        beamer_presentation:
+                theme: Boadilla
+                colortheme: dolphin
+                fig_caption: false
+                citation_package: natbib
+                logo: ".png"
+classoption: "aspectratio=169"
+slide_level: 1
+bibliography: ply171.bib
+biblio-style: "apalike"
+---
