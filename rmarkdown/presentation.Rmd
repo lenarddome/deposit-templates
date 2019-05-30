@@ -18,6 +18,6 @@ output:
                 logo: ".png"
 classoption: "aspectratio=169"
 slide_level: 1
-bibliography: ply171.bib
+bibliography: bibliography.bib
 biblio-style: "apalike"
 ---
